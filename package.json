@@ -1,0 +1,14 @@
+{
+  "name": "html-practical-2",
+  "version": "1.0.0",
+  "description": "![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "build": "tailwindcss build index.css -o output.css"
+  },
+  "author": "Aviral Malik",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^3.4.3"
+  }
+}
