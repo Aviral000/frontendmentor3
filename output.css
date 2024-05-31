@@ -601,10 +601,6 @@ video {
   display: flex;
 }
 
-.h-\[50vh\] {
-  height: 50vh;
-}
-
 .w-full {
   width: 100%;
 }
@@ -702,10 +698,6 @@ video {
 @media (min-width: 640px) {
   .sm\:h-8 {
     height: 2rem;
-  }
-
-  .sm\:h-\[23vh\] {
-    height: 23vh;
   }
 
   .sm\:w-\[23vw\] {
